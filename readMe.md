@@ -1,5 +1,5 @@
 # Branching and Merging
-
+123
 gitignore.io
 	macOS linux node ruby rails
 git branch -b "dir" master		create branch and move to it (with -b)
